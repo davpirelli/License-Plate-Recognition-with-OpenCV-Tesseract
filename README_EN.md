@@ -1,6 +1,10 @@
 # License Plate Recognition with OpenCV and Tesseract
 Python script that recognizes a license plate from an image, cuts it out and extracts the text using a tesseract
 
+## Demo screenshot
+<img width="612" alt="tesseract" src="https://github.com/davpirelli/License-Plate-Recognition-with-OpenCV-Tesseract/assets/6840116/0573fe6d-6383-4d35-a080-527f97eb8ab2">
+
+
 ### Import of bookstores
 The Code Begins by The Bookstores Requirector For the Recognition of the Vehicle License Plate, Including OPENCV for the Processing of Images, IMUTILS TO Simplify Some Operations, Numpy for the Manipulation of Array and PytessiRact for the OCR.
 
