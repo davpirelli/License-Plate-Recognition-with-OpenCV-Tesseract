@@ -1,6 +1,9 @@
 # License Plate Recognition with OpenCV and Tesseract
 Questo script python si occupa di processare un immagine con OpenCV, cercare una targa, ritagliarla ed estrarre il testo grazie a Tesseract.
 
+## Screenshot di esempio
+<img width="612" alt="tesseract" src="https://github.com/davpirelli/License-Plate-Recognition-with-OpenCV-Tesseract/assets/6840116/2efaa18d-190d-41bd-8913-fcfaed2b6d93">
+
 ### Importazione delle Librerie
 Il codice inizia importando le librerie necessarie per il riconoscimento della targa veicolo, tra cui OpenCV per l'elaborazione delle immagini, imutils per semplificare alcune operazioni, NumPy per la manipolazione di array e PyTesseract per l'OCR.
 
